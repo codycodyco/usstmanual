@@ -35,6 +35,10 @@
 
 ## 未来篇
 
-* [光电学院](wei-lai-pian/guang-dian-xue-yuan.md)
+* [光电学院](wei-lai-pian/guang-dian-xue-yuan/README.md)
+  * [计算机科学与技术](wei-lai-pian/guang-dian-xue-yuan/ji-suan-ji-ke-xue-yu-ji-shu/README.md)
+    * [工作](wei-lai-pian/guang-dian-xue-yuan/ji-suan-ji-ke-xue-yu-ji-shu/gong-zuo/README.md)
+      * [2024届 李明懿](wei-lai-pian/guang-dian-xue-yuan/ji-suan-ji-ke-xue-yu-ji-shu/gong-zuo/2024-jie-li-ming-yi.md)
+    * [Page 2](wei-lai-pian/guang-dian-xue-yuan/ji-suan-ji-ke-xue-yu-ji-shu/page-2.md)
 * [能动学院](wei-lai-pian/neng-dong-xue-yuan.md)
 * [Page](wei-lai-pian/page.md)
