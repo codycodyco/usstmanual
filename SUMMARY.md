@@ -32,3 +32,9 @@
 
 * [找兼职技巧](pang-men-zuo-dao/zhao-jian-zhi-ji-qiao.md)
 * [上海过夜技巧](pang-men-zuo-dao/shang-hai-guo-ye-ji-qiao.md)
+
+## 未来篇
+
+* [光电学院](wei-lai-pian/guang-dian-xue-yuan.md)
+* [能动学院](wei-lai-pian/neng-dong-xue-yuan.md)
+* [Page](wei-lai-pian/page.md)
