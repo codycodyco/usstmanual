@@ -8,7 +8,7 @@
 
 ### 考研：
 
-### 工作：
+### 工作：[2024届 李明懿](ji-suan-ji-ke-xue-yu-ji-shu/gong-zuo/2024-jie-li-ming-yi.md)
 
 ## 光电信息科学与工程：
 
