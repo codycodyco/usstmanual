@@ -18,12 +18,10 @@ layout:
     visible: true
 ---
 
-# Welcome
+# README
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+欢迎你来到上海理工大学生存手册，初到上理工，发现前人留下来的资料和信息很多，但是都零零散散集中在各个群里，因此想组织许多同学和校友撰写一本真正属于上理工的生存手册，以供查阅。
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+需要注意的是，本手册并不直接对学校的生活和学习细枝末节上做出建议（例如xx课选什么老师比较好），而是希望从战略意义上告诉大家如何面对在上理工的生活和学习（例如选课方式和选课技巧）。
 
-### Jump right in
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+本手册参考了上海交大生存手册和南方科技大学飞跃手册，因此在编写结构上会做一定的参考，后期根据内容再做调整。
